@@ -8,6 +8,13 @@ Seja bem-vindo(a) ao meu cantinho no GitHub! Aqui, misturo criatividade, tecnolo
 
 ---
 
+## 📊 **GitHub Stats**
+
+![Letícia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeticiaRDomingues&show_icons=true&theme=radical&hide=issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRDomingues&layout=compact&theme=radical)
+
+---
+
 ## 🧑‍🎨 **Sobre mim**
 - 🎨 Apaixonada por criar histórias, ilustrações, webcomics, animações e jogos.
 - ✏️ Explorando o mundo do desenho digital para dar forma a ideias visuais únicas.
@@ -39,26 +46,10 @@ Seja bem-vindo(a) ao meu cantinho no GitHub! Aqui, misturo criatividade, tecnolo
 
 ---
 
-## 🌟 **Curiosidades sobre mim**
-- ✏️ Sempre explorando novas técnicas de desenho e ilustração digital.
-- 🌍 Estou aprendendo novos idiomas e explorando culturas.
-- 💡 Fascinada por conectar arte e tecnologia em projetos inovadores.
-
----
-
-## ✨ **Minha Filosofia**
-_"Grandes ideias começam com pequenos traços. A união entre arte, tecnologia e design é o que transforma visões em revoluções."_ 🌟
-
----
-
-## 📊 **GitHub Stats**
-
-![Letícia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeticiaRDomingues&show_icons=true&theme=radical&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRDomingues&layout=compact&theme=radical)
-
----
-
 ## 🤝 **Conecte-se comigo**
 📧 **E-mail:** [leticiardominguescontato@gmail.com](mailto:leticiardominguescontato@gmail.com)  
 🌐 **Portfólio:** [Em breve...]  
 💬 **Colaborações:** Estou aberta para contribuir com projetos criativos ou tecnológicos!
+✨ **Minha Filosofia**
+_"Grandes ideias começam com pequenos traços. A união entre arte, tecnologia e design é o que transforma visões em revoluções."_ 🌟
+
