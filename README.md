@@ -10,8 +10,11 @@ Seja bem-vindo(a) ao meu cantinho no GitHub! Aqui, misturo criatividade, tecnolo
 
 ## 📊 **GitHub Stats**
 
-![Letícia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeticiaRDomingues&show_icons=true&theme=radical&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRDomingues&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeticiaRDomingues&show_icons=true&theme=radical&hide=issues" alt="Letícia's GitHub Stats" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRDomingues&layout=compact&theme=radical" alt="Top Languages" height="150px">
+</div>
+
 
 ---
 
