@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a **Letícia**!! 🌟
+# 👋 Olá, eu sou a **Letícia**! 🌟
 
 🎨 **Artista.**  
 💻 **Desenvolvedora em formação.**  
