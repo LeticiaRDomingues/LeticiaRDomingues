@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou a **Letícia**! 🌟
+# 👋 Olá, eu sou a **Letícia Rosa Domingues** 💻
 
-🎨 **Artista.**  
-💻 **Desenvolvedora em formação.**  
-🖌️ **Criadora de histórias.**
+🔐 **Estudante de Cibersegurança e Desenvolvimento.**  
+💻 **Foco em Pentest, Segurança Web e Defesa de Sistemas.**  
+🧠 **Apaixonada por entender, explorar e fortalecer a segurança digital.**
 
-Seja bem-vindo(a) ao meu cantinho no GitHub! Aqui, misturo criatividade, tecnologia, design e desenho para dar vida a ideias inovadoras. 🚀✨
+Bem-vindo(a) ao meu espaço no GitHub — aqui compartilho estudos, laboratórios, automações e projetos voltados à **cibersegurança, redes e desenvolvimento web**.
 
 ---
 
@@ -15,44 +15,44 @@ Seja bem-vindo(a) ao meu cantinho no GitHub! Aqui, misturo criatividade, tecnolo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRDomingues&layout=compact&theme=radical" alt="Top Languages" height="150px">
 </div>
 
+---
+
+## 🧠 **Sobre mim**
+- 💻 Estudante de **Cibersegurança**, com foco em **pentest, redes e segurança de aplicações web**.  
+- ⚙️ Aprendendo e aplicando técnicas de **ethical hacking**, **testes de vulnerabilidade** e **hardening de sistemas**.  
+- 🌐 Experiência crescente em **HTML**, **CSS**, **JavaScript**, **Python** e **Linux**.  
+- 🚀 Interesse em **bug bounty**, **segurança ofensiva**, e **defesa digital**.  
 
 ---
 
-## 🧑‍🎨 **Sobre mim**
-- 🎨 Apaixonada por criar histórias, ilustrações, webcomics, animações e jogos.
-- ✏️ Explorando o mundo do desenho digital para dar forma a ideias visuais únicas.
-- 💻 Construindo um universo com **programação**, **design** e **ilustração**.
-- 🤖 Estudante curiosa de **hacking** e fascinada por **tecnologias emergentes**.
+## 🧰 **Habilidades em desenvolvimento**
+### 🛠️ **Tecnologias e Ferramentas**
+- **Linguagens:** Python, JavaScript, Bash.  
+- **Web:** HTML, CSS, Node.js, Express.js.  
+- **Sistemas:** Linux (Ubuntu, Kali), Windows Server.  
+- **Segurança:** Burp Suite, Nmap, FFUF, SQLMap, Wireshark, Metasploit.  
+- **Controle de versão:** Git, GitHub.  
+- **Outros:** Docker, VirtualBox, VS Code.  
 
 ---
 
-## 🛠️ **Habilidades em desenvolvimento**
-### 🚀 **Tecnologia**
-- **Linguagens:** HTML, CSS, JavaScript, React.js, Python.
-- **Back-end:** Node.js, Express.js, SQLite.
-- **Ferramentas:** Git, GitHub, VS Code.
-- **Design e Ilustração:** Adobe Illustrator, Photoshop, animações 2D/3D.
+## 🎯 **Objetivos**
+- 🧩 Consolidar carreira em **Cibersegurança**, com foco em **Pentest e Análise de Vulnerabilidades**.  
+- 🔐 Participar ativamente de **Bug Bounties** e projetos de segurança ofensiva.  
+- 📈 Contribuir com a comunidade através de **labs, scripts e relatórios técnicos**.  
+- ☁️ Expandir conhecimentos em **Cloud Security** e **DevSecOps**.  
 
 ---
 
-## ✨ **Objetivos**
-- **Arte:** Criar e lançar um universo de histórias como **webcomics, animações** e **games**.
-- **Tecnologia:** Tornar-me uma **desenvolvedora full-stack** e construir projetos que unem programação e design.
-- **Carreira:** Integrar **tecnologia**, **design** e **desenho** para transformar ideias em experiências criativas.
-
----
-
-## 📚 **Projetos recentes**
-- 🎯 [Pesquisa de Satisfação](#): Um sistema para coletar e armazenar feedback de usuários usando **HTML**, **CSS**, **Node.js** e **SQLite**.
-- 🎮 [Game](#): Desenvolvimento inicial de um jogo, explorando o design de personagens e animações.
-- ✒️ [Webcomic Universe](#): Planejamento de histórias e personagens para uma série visual interativa.
+## 📚 **Projetos e estudos**
+- 🔍 **Labs de Segurança Web:** Documentações e exploits de aprendizado (XSS, IDOR, SQLi).  
+- 🧠 **TryHackMe / PortSwigger:** Resumos e relatórios dos laboratórios concluídos.  
+- ⚙️ **Scripts e automações:** Pequenas ferramentas em Python e Bash para segurança e análise.  
+- 🧾 **Relatórios sanitizados:** Exemplos reais de análises e vulnerabilidades em ambientes controlados.  
 
 ---
 
 ## 🤝 **Conecte-se comigo**
 📧 **E-mail:** [leticiardominguescontato@gmail.com](mailto:leticiardominguescontato@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/leticiarosadomingues](https://linkedin.com/in/leticiarosadomingues)  
 🌐 **Portfólio:** [Em breve...]  
-💬 **Colaborações:** Estou aberta para contribuir com projetos criativos ou tecnológicos!
-✨ **Minha Filosofia**
-_"Grandes ideias começam com pequenos traços. A união entre arte, tecnologia e design é o que transforma visões em revoluções."_ 🌟
-
