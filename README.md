@@ -65,7 +65,5 @@ Grow into a high-level security professional who can both **build systems** and 
 
 ---
 
-## 🤝 **Connect with Me**
+## 🤝 **Get in Touch**
 📧 **E-mail:** [leticiardominguescontato@gmail.com](mailto:leticiardominguescontato@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/leticiarosadomingues](https://linkedin.com/in/leticiarosadomingues)  
-🌐 **Portfolio:** [letzlab404.com (actively evolving)](https://www.letzlab404.com/)
