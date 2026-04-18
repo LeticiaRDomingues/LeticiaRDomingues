@@ -1,10 +1,58 @@
-# 👋 Olá, eu sou a **Letícia Rosa Domingues** 💻
+# 👋 Hi, I'm Letícia Rosa Domingues
 
-🔐 **Estudante de Cibersegurança e Desenvolvimento.**  
-💻 **Foco em Pentest, Segurança Web e Defesa de Sistemas.**  
-🧠 **Apaixonada por entender, explorar e fortalecer a segurança digital.**
+🔐 Cybersecurity & Web Development  
+⚡ Building projects, labs and real-world skills  
+🧠 AI-powered learner | Fast adapter | Problem solver
 
-Bem-vindo(a) ao meu espaço no GitHub — aqui compartilho estudos, laboratórios, automações e projetos voltados à **cibersegurança, redes e desenvolvimento web**.
+Welcome to my GitHub — where I document my journey through ethical hacking, web security, automation and modern development.
+
+🌐 Portfolio: https://letzlab404.com  
+💼 LinkedIn: https://linkedin.com/in/leticiarosadomingues
+
+---
+
+## 🚀 Current Focus
+
+- Web Application Security  
+- Pentest & Vulnerability Research  
+- React / Next.js / TypeScript  
+- Python Automation  
+- Linux & Infrastructure  
+- DevSecOps mindset
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+Python · JavaScript · TypeScript · Bash
+
+**Frontend**  
+React · Next.js · HTML · CSS · Tailwind
+
+**Backend**  
+Node.js · Express
+
+**Security Tools**  
+Burp Suite · Nmap · FFUF · SQLMap · Wireshark
+
+**Systems**  
+Linux · Docker · Git · GitHub
+
+---
+
+## 📌 Featured Work
+
+🔍 Security Labs & Writeups  
+⚙️ Python Security Scripts  
+🌐 Portfolio Projects  
+🧪 Practical Learning Repositories
+
+---
+
+## 🎯 Mission
+
+Grow into a high-level security professional who can both **build systems** and **break them responsibly**.
 
 ---
 
@@ -17,42 +65,7 @@ Bem-vindo(a) ao meu espaço no GitHub — aqui compartilho estudos, laboratório
 
 ---
 
-## 🧠 **Sobre mim**
-- 💻 Estudante de **Cibersegurança**, com foco em **pentest, redes e segurança de aplicações web**.  
-- ⚙️ Aprendendo e aplicando técnicas de **ethical hacking**, **testes de vulnerabilidade** e **hardening de sistemas**.  
-- 🌐 Experiência crescente em **HTML**, **CSS**, **JavaScript**, **Python** e **Linux**.  
-- 🚀 Interesse em **bug bounty**, **segurança ofensiva**, e **defesa digital**.  
-
----
-
-## 🧰 **Habilidades em desenvolvimento**
-### 🛠️ **Tecnologias e Ferramentas**
-- **Linguagens:** Python, JavaScript, Bash.  
-- **Web:** HTML, CSS, Node.js, Express.js.  
-- **Sistemas:** Linux (Ubuntu, Kali), Windows Server.  
-- **Segurança:** Burp Suite, Nmap, FFUF, SQLMap, Wireshark, Metasploit.  
-- **Controle de versão:** Git, GitHub.  
-- **Outros:** Docker, VirtualBox, VS Code.  
-
----
-
-## 🎯 **Objetivos**
-- 🧩 Consolidar carreira em **Cibersegurança**, com foco em **Pentest e Análise de Vulnerabilidades**.  
-- 🔐 Participar ativamente de **Bug Bounties** e projetos de segurança ofensiva.  
-- 📈 Contribuir com a comunidade através de **labs, scripts e relatórios técnicos**.  
-- ☁️ Expandir conhecimentos em **Cloud Security** e **DevSecOps**.  
-
----
-
-## 📚 **Projetos e estudos**
-- 🔍 **Labs de Segurança Web:** Documentações e exploits de aprendizado (XSS, IDOR, SQLi).  
-- 🧠 **TryHackMe / PortSwigger:** Resumos e relatórios dos laboratórios concluídos.  
-- ⚙️ **Scripts e automações:** Pequenas ferramentas em Python e Bash para segurança e análise.  
-- 🧾 **Relatórios sanitizados:** Exemplos reais de análises e vulnerabilidades em ambientes controlados.  
-
----
-
-## 🤝 **Conecte-se comigo**
+## 🤝 **Connect with Me**
 📧 **E-mail:** [leticiardominguescontato@gmail.com](mailto:leticiardominguescontato@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/leticiarosadomingues](https://linkedin.com/in/leticiarosadomingues)  
-🌐 **Portfólio:** [Em breve...]  
+🌐 **Portfolio:** [letzlab404.com (actively evolving)](https://www.letzlab404.com/)
