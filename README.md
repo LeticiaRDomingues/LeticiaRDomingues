@@ -66,4 +66,6 @@ Grow into a high-level security professional who can both **build systems** and 
 ---
 
 ## 🤝 **Get in Touch**
-📧 **E-mail:** [leticiardominguescontato@gmail.com](mailto:leticiardominguescontato@gmail.com)  
+📧 **E-mail 1:** [leticiarosadomingues026@gmail.com ](mailto:leticiarosadomingues026@gmail.com ) 
+📧 **E-mail 2:** [leticiardominguescontato@gmail.com](mailto:leticiardominguescontato@gmail.com) 
+         
