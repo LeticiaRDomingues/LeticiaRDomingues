@@ -56,15 +56,6 @@ Grow into a high-level security professional who can both **build systems** and 
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeticiaRDomingues&show_icons=true&theme=radical&hide=issues" alt="Letícia's GitHub Stats" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRDomingues&layout=compact&theme=radical" alt="Top Languages" height="150px">
-</div>
-
----
-
 ## 🤝 **Get in Touch**
 📧 **E-mail 1:** [leticiarosadomingues026@gmail.com ](mailto:leticiarosadomingues026@gmail.com ) 
 📧 **E-mail 2:** [leticiardominguescontato@gmail.com](mailto:leticiardominguescontato@gmail.com) 
